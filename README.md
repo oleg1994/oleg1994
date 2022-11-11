@@ -1,4 +1,2 @@
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oleg1994)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=oleg1994)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleg1994)](https://github.com/anuraghazra/github-readme-stats)
 
